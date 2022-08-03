@@ -1,0 +1,11 @@
+[   18.211369] ath11k_pci 0000:02:00.0: BAR 0 [mem 0x78600000-0x787fffff 64bit]: assigned
+[   18.211395] ath11k_pci 0000:02:00.0: enabling device (0000 -> 0002)
+[   18.213030] ath11k_pci 0000:02:00.0: MSI vectors: 32
+[   18.213038] ath11k_pci 0000:02:00.0: wcn6855 hw2.1
+[   19.871216] ath11k_pci 0000:02:00.0: chip_id 0x12 chip_family 0xb board_id 0xff soc_id 0x400c1211
+[   19.871227] ath11k_pci 0000:02:00.0: fw_version 0x1106196e fw_build_timestamp 2024-01-12 11:30 fw_build_id WLAN.HSP.1.1-03125-QCAHSPSWPL_V1_V2_SILICONZ_LITE-3.6510.37
+[   20.219452] ath11k_pci 0000:02:00.0 wlp2s0: renamed from wlan0
+[   20.224184] ath11k_pci 0000:02:00.0: Failed to set the requested Country regulatory setting
+[   20.224197] ath11k_pci 0000:02:00.0: failed to process regulatory info -22
+[   20.224592] ath11k_pci 0000:02:00.0: Failed to set the requested Country regulatory setting
+[   20.224602] ath11k_pci 0000:02:00.0: failed to process regulatory info -22
