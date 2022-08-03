@@ -1,0 +1,34 @@
+! https://www.aula.dk
+www.aula.dk##.scrollbar.modal-aula
+www.aula.dk##.show.fade.modal-backdrop.modal-aula-backdrop
+
+! https://www.dvdoo.dk
+www.dvdoo.dk###newsSubscriber
+www.dvdoo.dk###newsSub
+
+! https://static.queue-it.net
+||static.queue-it.net
+
+! https://www.bt.dk
+www.bt.dk##.scrollUp.next-article-button--container
+www.bt.dk###CybotCookiebotDialogBodyUnderlay
+www.bt.dk##.CybotCookiebotDialogContentWrapper
+www.bt.dk###newsletterSignUp
+www.bt.dk##.Softwall__person
+www.bt.dk##.Softwall__title
+www.bt.dk##.Softwall__content
+www.bt.dk##.Softwall__button
+
+! 2022-10-27 https://code2care.org
+code2care.org###myModalAB
+
+! 2023-06-13 https://ing.dk
+||service.tekhus.dk/kv-prx/$image
+
+! 2023-06-16 https://www.computersalg.dk
+www.computersalg.dk##.swal2-popup
+
+! 2023-09-02 https://ekstrabladet.dk
+ekstrabladet.dk###gaPayflowContainer
+ekstrabladet.dk###CybotCookiebotDialog
+ekstrabladet.dk###CybotCookiebotDialogBodyUnderlay
