@@ -1,0 +1,1 @@
+https://unix.stackexchange.com/questions/761866/encrypted-boot-partition-advantage-of-encrypted-boot-partition?rq=1
