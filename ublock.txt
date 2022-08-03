@@ -1,0 +1,53 @@
+! Jan 21, 2026 https://account.lenovo.com
+account.lenovo.com###inside_holder > .notificationMode
+
+! 13 Jan 2026 https://www.lenovo.com
+www.lenovo.com###inside_holder > .notificationMode
+
+! 30. okt. 2025 https://www.bt.dk
+www.bt.dk##.PostConsentModal_modal__TPXf4
+www.bt.dk##.PostConsentModal_modal__Gg8wX
+||static.ekstrabladet.dk/bannerhtml/
+
+! 28 Aug 2025 https://www.lsb.dk
+www.lsb.dk###Campaign > .EXTERNAL.NEOS_ENVIRONMENT__external.NEOS_TENANT__lsb.NEOS > .NEOS-wrapper
+
+! 24 Apr 2025 https://www.lb.dk
+www.lb.dk##.Modal_overlay__ODKS_
+
+! 23 Apr 2025 https://gls-group.eu
+gls-group.eu##.lf-popup
+
+! 2 Dec 2024 https://www.tv2east.dk
+www.tv2east.dk###east-newsletter
+
+! https://static.queue-it.net
+||static.queue-it.net
+
+! https://www.aula.dk
+www.aula.dk##.scrollbar.modal-aula
+www.aula.dk##.show.fade.modal-backdrop.modal-aula-backdrop
+
+! 2022-10-27 https://code2care.org
+code2care.org###myModalAB
+
+! 2023-06-13 https://ing.dk
+||service.tekhus.dk/kv-prx/$image
+
+! 2023-06-16 https://www.computersalg.dk
+www.computersalg.dk##.swal2-popup
+
+! https://www.bt.dk
+www.bt.dk##.scrollUp.next-article-button--container
+www.bt.dk###CybotCookiebotDialogBodyUnderlay
+www.bt.dk##.CybotCookiebotDialogContentWrapper
+www.bt.dk###newsletterSignUp
+www.bt.dk##.Softwall__person
+www.bt.dk##.Softwall__title
+www.bt.dk##.Softwall__content
+www.bt.dk##.Softwall__button
+
+! 2023-09-02 https://ekstrabladet.dk
+ekstrabladet.dk###gaPayflowContainer
+ekstrabladet.dk###CybotCookiebotDialog
+ekstrabladet.dk###CybotCookiebotDialogBodyUnderlay
