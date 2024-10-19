@@ -39,6 +39,8 @@
 
 - [Ozzy Man Reviews](https://www.youtube.com/@ozzymanreviews/videos)
 
+- [Mrwhosetheboss](https://www.youtube.com/@Mrwhosetheboss/videos)
+
 # Science
 
 - [Stand-up Maths](https://www.youtube.com/@standupmaths/videos)
