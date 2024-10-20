@@ -1,4 +1,4 @@
-# Tech
+# 01 Tech
 
 - [Gamers Nexus](https://www.youtube.com/@GamersNexus/videos)
 
@@ -21,7 +21,7 @@
 
 - [Accursed Farms](https://www.youtube.com/@Accursed_Farms/videos)
 
-# Fun
+# 02 Fun
 
 - [Michael Schøt](https://www.youtube.com/@MichaelSchot/videos)
 
@@ -41,7 +41,7 @@
 
 - [Mrwhosetheboss](https://www.youtube.com/@Mrwhosetheboss/videos)
 
-# Science
+# 03 Science
 
 - [Stand-up Maths](https://www.youtube.com/@standupmaths/videos)
 
@@ -56,21 +56,21 @@
 
 - [Animagraffs](https://www.youtube.com/@animagraffs/videos)
 
-# War
+# 04 Politics
 
 - [Anders Puck Nielsen](https://www.youtube.com/@anderspuck/videos)
 
-# Food
+# 05 Food
 
 - [James Hoffmann](https://www.youtube.com/@jameshoffmann/videos)
 
 - [James Køkken](https://www.youtube.com/@JPriceDK/videos)
 
-# Movies
+# 06 Movies
 
 - [Bagom Filmen med Lars Thiesgaard](https://www.youtube.com/@BagomFilmenmedLarsThiesgaard/videos)
 
-# Music
+# 07 Music
 
 - [Gojira](https://www.youtube.com/@gojira/videos)
 - [Zeal and Ardor](https://www.youtube.com/@ZealArdor666/videos)
