@@ -92,6 +92,8 @@
 
 - [2 Much ColinFurze](https://www.youtube.com/@2MuchColinFurze/videos)
 
+- [LastWeekTonight](https://www.youtube.com/@LastWeekTonight/videos)
+
 - [Mark Rober](https://www.youtube.com/@MarkRober/videos)
 
 - [Tom Lamb](https://www.youtube.com/@Tomlamb980/videos)
