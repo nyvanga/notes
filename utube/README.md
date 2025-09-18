@@ -74,6 +74,8 @@
 
 - [Techmoan](https://www.youtube.com/@Techmoan/videos)
 
+- [Adam Savages Tested](https://www.youtube.com/@tested/videos)
+
 - [der8auer](https://www.youtube.com/@der8auer-en/videos)
 
 - [Asianometry](https://www.youtube.com/@Asianometry/videos)
