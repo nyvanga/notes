@@ -96,7 +96,7 @@
 
 - [Proton](https://www.youtube.com/@ProtonPrivacy/videos)
 
-- [BBC Global](https://www.youtube.com/@BBC_Global/videos)
+- [Diesel Creek](https://www.youtube.com/@DieselCreek/videos)
 
 # 13 Fun
 
