@@ -6,6 +6,7 @@ www.lenovo.com###inside_holder > .notificationMode
 
 ! 30. okt. 2025 https://www.bt.dk
 www.bt.dk##.PostConsentModal_modal__TPXf4
+www.bt.dk##.PostConsentModal_modal__Gg8wX
 
 ! 28 Aug 2025 https://www.lsb.dk
 www.lsb.dk###Campaign > .EXTERNAL.NEOS_ENVIRONMENT__external.NEOS_TENANT__lsb.NEOS > .NEOS-wrapper
