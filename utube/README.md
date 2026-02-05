@@ -104,12 +104,6 @@
 
 - [Wheelie Yellow](https://www.youtube.com/@WheelieYellow/videos)
 
-- [Jonathan Pie](https://www.youtube.com/@JonathanPie/videos)
-
-- [The Late Show with Stephen Colbert](https://www.youtube.com/@ColbertLateShow/videos)
-
-- [Late Night with Seth Meyers](https://www.youtube.com/@LateNightSeth/videos)
-
 # 14 Science
 
 - [Numberphile2](https://www.youtube.com/@numberphile2/videos)
