@@ -1,3 +1,6 @@
+! Apr 11, 2026 https://www.sundhed.dk
+www.sundhed.dk##sdk-identity-cookie-consent
+
 ! Jan 21, 2026 https://account.lenovo.com
 account.lenovo.com###inside_holder > .notificationMode
 
